@@ -16,7 +16,6 @@ function App() {
           </Routes>
         </CartContext>
       </BrowserRouter>
-      <div className="js-woorank-lead-widget woorank-lead-widget"></div>
     </div>
   );
 }
